@@ -10,7 +10,7 @@
   <img 
     src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"
     alt="Coding animation"
-    width="280"
+    width="95%"
   />
 </p>
 
@@ -19,9 +19,9 @@
 <h2 align="center">🌱 About Me</h2>
 
 <p align="center">
-  🔭 Currently working on building web projects and improving my coding skills.
+  🔭 Currently working on **Building web projects and improving my coding skills**
   <br><br>
-  🌱 Currently learning JavaScript, DOM Manipulation & MERN Stack.
+  🌱 Currently learning **JavaScript, DOM Manipulation & MERN Stack**
   <br><br>
   📫 Reach me at: <b>royahassanzada24@gmail.com</b>
 </p>
@@ -31,12 +31,9 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/roya-hassan-zada-783200395">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://instagram.com/royaa._.ha">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://linkedin.com/in/roya-hassan-zada-783200395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roya-hassan-zada" height="30" width="40" /></a>
+<a href="https://instagram.com/royaa._.ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="royaa._.ha" height="30" width="40" /></a>
+</p>
   </a>
 </p>
 
@@ -72,7 +69,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=roya-ha&show_icons=true&theme=default&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=roya-ha&show_icons=true&hide_border=true"
     alt="GitHub Stats"
     width="95%"
   />
@@ -82,7 +79,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roya-ha&layout=compact&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=roya-ha&layout=compact&hide_border=true"
     alt="Top Languages"
     width="95%"
   />
