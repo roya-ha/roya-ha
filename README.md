@@ -10,20 +10,20 @@
   <img 
     src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"
     alt="Coding animation"
-    width="95%"
+    width="70%"
   />
 </p>
 
 <br>
 
-<h2 align="center">🌱 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  🔭 Currently working on **Building web projects and improving my coding skills**
+  🔭 Currently working on <b>Building web projects and improving my coding skills</b>
   <br><br>
-  🌱 Currently learning **JavaScript, DOM Manipulation & MERN Stack**
+  🌱 Currently learning <b>JavaScript, DOM Manipulation & MERN Stack</b>
   <br><br>
-  📫 Reach me at: <b>royahassanzada24@gmail.com</b>
+  📫 How to reach me <b>royahassanzada24@gmail.com</b>
 </p>
 
 <br>
@@ -43,11 +43,11 @@
 
 <p align="center">
   <a href="https://www.w3.org/html/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzSG3k4LEnqfDg3bwIlEqeVdwXvZwCF4QIywICqfsEIQ&s=10" width="45" height="45" alt="HTML5"/>
   </a>
 
   <a href="https://www.w3schools.com/css/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgjNsmI1znlq9Z__xXseqGyVUzXuBdmYNZ4NQ9mbYAbNCbLdfveKFVxaV&s=10" width="45" height="45" alt="CSS3"/>
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -55,24 +55,12 @@
   </a>
 
   <a href="https://git-scm.com/">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXOj3HVxcFfJBRZJnzT5xqVJB59HkLjU07a01T-X9Jw&s=10" width="45" height="45" alt="Git"/>
   </a>
 
   <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0EILObXgNa0CLj8B9xxWh-yT9OwKzG2ZRAQ1riXlf1xWzPH0e9YAH7I&s=10" width="45" height="45" alt="GitHub"/>
   </a>
-</p>
-
-<br>
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img 
-    src="https://github-stats-extended.vercel.app/api?username=roya-ha&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
-    width="95%"
-  />
 </p>
 
 <br>
@@ -81,7 +69,7 @@
   <img 
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=roya-ha&layout=compact&hide_border=true"
     alt="Top Languages"
-    width="95%"
+    width="70%"
   />
 </p>
 
@@ -91,7 +79,7 @@
   <img 
     src="https://streak-stats.demolab.com?user=roya-ha&theme=default&hide_border=true"
     alt="GitHub Streak"
-    width="95%"
+    width="70%"
   />
 </p>
 
