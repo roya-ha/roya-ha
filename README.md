@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ROYA</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Turning Ideas into Digital Experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roya-ha&label=Profile%20views&color=0e75b6&style=flat" alt="roya-ha" /> </p>
+<img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
 - 🔭 I’m currently working on **Building web projects and improving my coding skills**
 
@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roya-ha&show_icons=true&locale=en" alt="roya-ha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roya-ha&" alt="roya-ha" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=roya-ha&label=Profile%20views&color=0e75b6&style=flat" alt="roya-ha" /> </p>
