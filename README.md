@@ -10,7 +10,7 @@
   <img 
     src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"
     alt="Coding animation"
-    width="70%"
+    width="90%"
   />
 </p>
 
@@ -69,7 +69,7 @@
   <img 
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=roya-ha&layout=compact&hide_border=true"
     alt="Top Languages"
-    width="70%"
+    width="90%"
   />
 </p>
 
@@ -79,7 +79,7 @@
   <img 
     src="https://streak-stats.demolab.com?user=roya-ha&theme=default&hide_border=true"
     alt="GitHub Streak"
-    width="70%"
+    width="90%"
   />
 </p>
 
